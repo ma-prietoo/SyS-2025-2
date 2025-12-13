@@ -1,7 +1,10 @@
 ## Proyecto Señales
 **Integrantes:** Mariana Zuluaga, Maria Prieto
+
 **Docente:** Andrés Marino Álvarez Meza
+
 **Departamento de Ingeniería Eléctrica, Electrónica y Computación**
+
 **Universidad Nacional de Colombia - sede Manizales**
 
 Enlaces Kaggle:
